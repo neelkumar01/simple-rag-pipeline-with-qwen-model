@@ -1,6 +1,6 @@
-## End to End Simple RAG Pipeline
+## RAG with Qwen Model
 
-A simple end to end Retrieval-Augmented Generation (RAG) pipeline using the open source `Qwen/Qwen2.5-0.5B-Instruct` model for text file question answering
+A Retrieval-Augmented Generation (RAG) pipeline using the open source `Qwen/Qwen2.5-0.5B-Instruct` model for text file question answering
 
 ### Overview
 
